@@ -1,0 +1,1066 @@
+{
+	"H":{
+		"Element Symbol" : "H",
+		"Atomic Number" : "1",
+		"Element Name" : "Hydrogen",
+		"Atomic Weight" : "1.0078",
+		"Period" : "1",
+		"Group" : "1",
+		"Property" : "Elements_Details"
+	},
+	"He":{
+		"Element Symbol" : "He",
+		"Atomic Number" : "2",
+		"Element Name" : "Helium",
+		"Atomic Weight" : "4.0026",
+		"Period" : "1",
+		"Group" : "18",
+		"Property" : "Noble Gases"
+	},
+	"Li":{
+		"Element Symbol" : "Li",
+		"Atomic Number" : "3",
+		"Element Name" : "Lithium",
+		"Atomic Weight" : "6.938",
+		"Period" : "2",
+		"Group" : "1",
+		"Property" : "Alkalai Metals"
+	},
+	"Be":{
+		"Element Symbol" : "Be",
+		"Atomic Number" : "4",
+		"Element Name" : "Beryllium",
+		"Atomic Weight" : "9.0122",
+		"Period" : "2",
+		"Group" : "2",
+		"Property" : "Alkaline Earth Metals"
+	},
+	"B":{
+		"Element Symbol" : "B",
+		"Atomic Number" : "5",
+		"Element Name" : "Boron",
+		"Atomic Weight" : "10.806",
+		"Period" : "2",
+		"Group" : "13",
+		"Property" : "Metalloids"
+	},
+	"C":{
+		"Element Symbol" : "C",
+		"Atomic Number" : "6",
+		"Element Name" : "Carbon",
+		"Atomic Weight" : "12.009",
+		"Period" : "2",
+		"Group" : "14",
+		"Property" : "Other Nonmetals"
+	},
+	"N":{
+		"Element Symbol" : "N",
+		"Atomic Number" : "7",
+		"Element Name" : "Nitrogen",
+		"Atomic Weight" : "14.006",
+		"Period" : "2",
+		"Group" : "15",
+		"Property" : "Other Nonmetals"
+	},
+	"O":{
+		"Element Symbol" : "O",
+		"Atomic Number" : "8",
+		"Element Name" : "Oxygen",
+		"Atomic Weight" : "15.999",
+		"Period" : "2",
+		"Group" : "16",
+		"Property" : "Other Nonmetals"
+	},
+	"F":{
+		"Element Symbol" : "F",
+		"Atomic Number" : "9",
+		"Element Name" : "Fluorine",
+		"Atomic Weight" : "18.998",
+		"Period" : "2",
+		"Group" : "17",
+		"Property" : "Halogens"
+	},
+	"Ne":{
+		"Element Symbol" : "Ne",
+		"Atomic Number" : "10",
+		"Element Name" : "Neon",
+		"Atomic Weight" : "20.180",
+		"Period" : "2",
+		"Group" : "18",
+		"Property" : "Noble Gases"
+	},
+	"Na":{
+		"Element Symbol" : "Na",
+		"Atomic Number" : "11",
+		"Element Name" : "Sodium",
+		"Atomic Weight" : "22.990",
+		"Period" : "3",
+		"Group" : "1",
+		"Property" : "Alkalai Metals"
+	},
+	"Mg":{
+		"Element Symbol" : "Mg",
+		"Atomic Number" : "12",
+		"Element Name" : "Magnesium",
+		"Atomic Weight" : "24.305",
+		"Period" : "3",
+		"Group" : "2",
+		"Property" : "Alkaline Earth Metals"
+	},
+	"Al":{
+		"Element Symbol" : "Al",
+		"Atomic Number" : "13",
+		"Element Name" : "Aluminium",
+		"Atomic Weight" : "26.982",
+		"Period" : "3",
+		"Group" : "13",
+		"Property" : "Post-transition Metals"
+	},
+	"Si":{
+		"Element Symbol" : "Si",
+		"Atomic Number" : "14",
+		"Element Name" : "Silicon",
+		"Atomic Weight" : "28.084",
+		"Period" : "3",
+		"Group" : "14",
+		"Property" : "Metalloids"
+	},
+	"P":{
+		"Element Symbol" : "P",
+		"Atomic Number" : "15",
+		"Element Name" : "Phosphorus",
+		"Atomic Weight" : "30.974",
+		"Period" : "3",
+		"Group" : "15",
+		"Property" : "Other Nonmetals"
+	},
+	"S":{
+		"Element Symbol" : "S",
+		"Atomic Number" : "16",
+		"Element Name" : "Sulfur",
+		"Atomic Weight" : "32.059",
+		"Period" : "3",
+		"Group" : "16",
+		"Property" : "Other Nonmetals"
+	},
+	"Cl":{
+		"Element Symbol" : "Cl",
+		"Atomic Number" : "17",
+		"Element Name" : "Clorine",
+		"Atomic Weight" : "35.446",
+		"Period" : "3",
+		"Group" : "17",
+		"Property" : "Halogens"
+	},
+	"Ar":{
+		"Element Symbol" : "Ar",
+		"Atomic Number" : "18",
+		"Element Name" : "Argon",
+		"Atomic Weight" : "39.948",
+		"Period" : "3",
+		"Group" : "18",
+		"Property" : "Noble Gases"
+	},
+	"K":{
+		"Element Symbol" : "K",
+		"Atomic Number" : "19",
+		"Element Name" : "Potassium",
+		"Atomic Weight" : "39.098",
+		"Period" : "4",
+		"Group" : "1",
+		"Property" : "Alkalai Metals"
+	},
+	"Ca":{
+		"Element Symbol" : "Ca",
+		"Atomic Number" : "20",
+		"Element Name" : "Calcium",
+		"Atomic Weight" : "40.078",
+		"Period" : "4",
+		"Group" : "2",
+		"Property" : "Alkaline Earth Metals"
+	},
+	"Sc":{
+		"Element Symbol" : "Sc",
+		"Atomic Number" : "21",
+		"Element Name" : "Scandium",
+		"Atomic Weight" : "44.956",
+		"Period" : "4",
+		"Group" : "3",
+		"Property" : "Transition Metals"
+	},
+	"Ti":{
+		"Element Symbol" : "Ti",
+		"Atomic Number" : "22",
+		"Element Name" : "Titanium",
+		"Atomic Weight" : "47.867",
+		"Period" : "4",
+		"Group" : "4",
+		"Property" : "Transition Metals"
+	},
+	"V":{
+		"Element Symbol" : "V",
+		"Atomic Number" : "23",
+		"Element Name" : "Vanadium",
+		"Atomic Weight" : "50.942",
+		"Period" : "4",
+		"Group" : "5",
+		"Property" : "Transition Metals"
+	},
+	"Cr":{
+		"Element Symbol" : "Cr",
+		"Atomic Number" : "24",
+		"Element Name" : "Chromium",
+		"Atomic Weight" : "51.996",
+		"Period" : "4",
+		"Group" : "6",
+		"Property" : "Transition Metals"
+	},
+	"Mn":{
+		"Element Symbol" : "Mn",
+		"Atomic Number" : "25",
+		"Element Name" : "Manganese",
+		"Atomic Weight" : "54.938",
+		"Period" : "4",
+		"Group" : "7",
+		"Property" : "Transition Metals"
+	},
+	"Fe":{
+		"Element Symbol" : "Fe",
+		"Atomic Number" : "26",
+		"Element Name" : "Iron",
+		"Atomic Weight" : "55.845",
+		"Period" : "4",
+		"Group" : "8",
+		"Property" : "Transition Metals"
+	},
+	"Co":{
+		"Element Symbol" : "Co",
+		"Atomic Number" : "27",
+		"Element Name" : "Cobalt",
+		"Atomic Weight" : "58.933",
+		"Period" : "4",
+		"Group" : "9",
+		"Property" : "Transition Metals"
+	},
+	"Ni":{
+		"Element Symbol" : "Ni",
+		"Atomic Number" : "28",
+		"Element Name" : "Nickel",
+		"Atomic Weight" : "58.693",
+		"Period" : "4",
+		"Group" : "10",
+		"Property" : "Transition Metals"
+	},
+	"Cu":{
+		"Element Symbol" : "Cu",
+		"Atomic Number" : "29",
+		"Element Name" : "Copper",
+		"Atomic Weight" : "63.546",
+		"Period" : "4",
+		"Group" : "11",
+		"Property" : "Transition Metals"
+	},
+	"Zn":{
+		"Element Symbol" : "Zn",
+		"Atomic Number" : "30",
+		"Element Name" : "Zinc",
+		"Atomic Weight" : "65.38",
+		"Period" : "4",
+		"Group" : "12",
+		"Property" : "Transition Metals"
+	},
+	"Ga":{
+		"Element Symbol" : "Ga",
+		"Atomic Number" : "31",
+		"Element Name" : "Gallium",
+		"Atomic Weight" : "69.723",
+		"Period" : "4",
+		"Group" : "13",
+		"Property" : "Post-transition Metals"
+	},
+	"Ge":{
+		"Element Symbol" : "Ge",
+		"Atomic Number" : "32",
+		"Element Name" : "Germanium",
+		"Atomic Weight" : "72.63",
+		"Period" : "4",
+		"Group" : "14",
+		"Property" : "Metalloids"
+	},
+	"As":{
+		"Element Symbol" : "As",
+		"Atomic Number" : "33",
+		"Element Name" : "Arsenic",
+		"Atomic Weight" : "74.922",
+		"Period" : "4",
+		"Group" : "15",
+		"Property" : "Metalloids"
+	},
+	"Se":{
+		"Element Symbol" : "Se",
+		"Atomic Number" : "34",
+		"Element Name" : "Selenium",
+		"Atomic Weight" : "78.96",
+		"Period" : "4",
+		"Group" : "16",
+		"Property" : "Other Nonmetals"
+	},
+	"Br":{
+		"Element Symbol" : "Br",
+		"Atomic Number" : "35",
+		"Element Name" : "Bromine",
+		"Atomic Weight" : "79.904",
+		"Period" : "4",
+		"Group" : "17",
+		"Property" : "Halogens"
+	},
+	"Kr":{
+		"Element Symbol" : "Kr",
+		"Atomic Number" : "36",
+		"Element Name" : "Krypton",
+		"Atomic Weight" : "83.798",
+		"Period" : "4",
+		"Group" : "18",
+		"Property" : "Noble Gases"
+	},
+	"Rb":{
+		"Element Symbol" : "Rb",
+		"Atomic Number" : "37",
+		"Element Name" : "Rubidium",
+		"Atomic Weight" : "85.468",
+		"Period" : "5",
+		"Group" : "1",
+		"Property" : "Alkalai Metals"
+	},
+	"Sr":{
+		"Element Symbol" : "Sr",
+		"Atomic Number" : "38",
+		"Element Name" : "Strontium",
+		"Atomic Weight" : "87.62",
+		"Period" : "5",
+		"Group" : "2",
+		"Property" : "Alkaline Earth Metals"
+	},
+	"Y":{
+		"Element Symbol" : "Y",
+		"Atomic Number" : "39",
+		"Element Name" : "Yttrium",
+		"Atomic Weight" : "88.906",
+		"Period" : "5",
+		"Group" : "3",
+		"Property" : "Transition Metals"
+	},
+	"Zr":{
+		"Element Symbol" : "Zr",
+		"Atomic Number" : "40",
+		"Element Name" : "Zirconium",
+		"Atomic Weight" : "91.224",
+		"Period" : "5",
+		"Group" : "4",
+		"Property" : "Transition Metals"
+	},
+	"Nb":{
+		"Element Symbol" : "Nb",
+		"Atomic Number" : "41",
+		"Element Name" : "Niobium",
+		"Atomic Weight" : "92.906",
+		"Period" : "5",
+		"Group" : "5",
+		"Property" : "Transition Metals"
+	},
+	"Mo":{
+		"Element Symbol" : "Mo",
+		"Atomic Number" : "42",
+		"Element Name" : "Molybdenum",
+		"Atomic Weight" : "95.96",
+		"Period" : "5",
+		"Group" : "6",
+		"Property" : "Transition Metals"
+	},
+	"Tc":{
+		"Element Symbol" : "Tc",
+		"Atomic Number" : "43",
+		"Element Name" : "Technetium",
+		"Atomic Weight" : "98.9062",
+		"Period" : "5",
+		"Group" : "7",
+		"Property" : "Transition Metals"
+	},
+	"Ru":{
+		"Element Symbol" : "Ru",
+		"Atomic Number" : "44",
+		"Element Name" : "Ruthenium",
+		"Atomic Weight" : "101.07",
+		"Period" : "5",
+		"Group" : "8",
+		"Property" : "Transition Metals"
+	},
+	"Rh":{
+		"Element Symbol" : "Rh",
+		"Atomic Number" : "45",
+		"Element Name" : "Rhodium",
+		"Atomic Weight" : "102.91",
+		"Period" : "5",
+		"Group" : "9",
+		"Property" : "Transition Metals"
+	},
+	"Pd":{
+		"Element Symbol" : "Pd",
+		"Atomic Number" : "46",
+		"Element Name" : "Palladium",
+		"Atomic Weight" : "106.42",
+		"Period" : "5",
+		"Group" : "10",
+		"Property" : "Transition Metals"
+	},
+	"Ag":{
+		"Element Symbol" : "Ag",
+		"Atomic Number" : "47",
+		"Element Name" : "Silver",
+		"Atomic Weight" : "107.87",
+		"Period" : "5",
+		"Group" : "11",
+		"Property" : "Transition Metals"
+	},
+	"Cd":{
+		"Element Symbol" : "Cd",
+		"Atomic Number" : "48",
+		"Element Name" : "Cadmium",
+		"Atomic Weight" : "112.41",
+		"Period" : "5",
+		"Group" : "12",
+		"Property" : "Transition Metals"
+	},
+	"In":{
+		"Element Symbol" : "In",
+		"Atomic Number" : "49",
+		"Element Name" : "Indium",
+		"Atomic Weight" : "114.82",
+		"Period" : "5",
+		"Group" : "13",
+		"Property" : "Post-transition Metals"
+	},
+	"Sn":{
+		"Element Symbol" : "Sn",
+		"Atomic Number" : "50",
+		"Element Name" : "Tin",
+		"Atomic Weight" : "118.71",
+		"Period" : "5",
+		"Group" : "14",
+		"Property" : "Post-transition Metals"
+	},
+	"Sb":{
+		"Element Symbol" : "Sb",
+		"Atomic Number" : "51",
+		"Element Name" : "Antimony",
+		"Atomic Weight" : "121.76",
+		"Period" : "5",
+		"Group" : "15",
+		"Property" : "Metalloids"
+	},
+	"Te":{
+		"Element Symbol" : "Te",
+		"Atomic Number" : "52",
+		"Element Name" : "Tellurium",
+		"Atomic Weight" : "127.60",
+		"Period" : "5",
+		"Group" : "16",
+		"Property" : "Metalloids"
+	},
+	"I":{
+		"Element Symbol" : "I",
+		"Atomic Number" : "53",
+		"Element Name" : "Iodine",
+		"Atomic Weight" : "126.90",
+		"Period" : "5",
+		"Group" : "17",
+		"Property" : "Halogens"
+	},
+	"Xe":{
+		"Element Symbol" : "Xe",
+		"Atomic Number" : "54",
+		"Element Name" : "Xenon",
+		"Atomic Weight" : "131.29",
+		"Period" : "5",
+		"Group" : "18",
+		"Property" : "Noble Gases"
+	},
+	"Cs":{
+		"Element Symbol" : "Cs",
+		"Atomic Number" : "55",
+		"Element Name" : "Cesium",
+		"Atomic Weight" : "132.91",
+		"Period" : "6",
+		"Group" : "1",
+		"Property" : "Alkalai Metals"
+	},
+	"Ba":{
+		"Element Symbol" : "Ba",
+		"Atomic Number" : "56",
+		"Element Name" : "Barium",
+		"Atomic Weight" : "137.33",
+		"Period" : "6",
+		"Group" : "2",
+		"Property" : "Alkaline Earth Metals"
+	},
+	"La":{
+		"Element Symbol" : "La",
+		"Atomic Number" : "57",
+		"Element Name" : "Lanthanum",
+		"Atomic Weight" : "138.91",
+		"Period" : "6",
+		"Group" : "-",
+		"Property" : "Lanthanides"
+	},
+	"Ce":{
+		"Element Symbol" : "Ce",
+		"Atomic Number" : "58",
+		"Element Name" : "Cerium",
+		"Atomic Weight" : "140.12",
+		"Period" : "6",
+		"Group" : "-",
+		"Property" : "Lanthanides"
+	},
+	"Pr":{
+		"Element Symbol" : "Pr",
+		"Atomic Number" : "59",
+		"Element Name" : "Praseodymium",
+		"Atomic Weight" : "140.91",
+		"Period" : "6",
+		"Group" : "-",
+		"Property" : "Lanthanides"
+	},
+	"Nd":{
+		"Element Symbol" : "Nd",
+		"Atomic Number" : "60",
+		"Element Name" : "Neodymium",
+		"Atomic Weight" : "144.24",
+		"Period" : "6",
+		"Group" : "-",
+		"Property" : "Lanthanides"
+	},
+	"Pm":{
+		"Element Symbol" : "Pm",
+		"Atomic Number" : "61",
+		"Element Name" : "Promethium",
+		"Atomic Weight" : "145",
+		"Period" : "6",
+		"Group" : "-",
+		"Property" : "Lanthanides"
+	},
+	"Sm":{
+		"Element Symbol" : "Sm",
+		"Atomic Number" : "62",
+		"Element Name" : "Samarium",
+		"Atomic Weight" : "150.36",
+		"Period" : "6",
+		"Group" : "-",
+		"Property" : "Lanthanides"
+	},
+	"Eu":{
+		"Element Symbol" : "Eu",
+		"Atomic Number" : "63",
+		"Element Name" : "Europium",
+		"Atomic Weight" : "151.96",
+		"Period" : "6",
+		"Group" : "-",
+		"Property" : "Lanthanides"
+	},
+	"Gd":{
+		"Element Symbol" : "Gd",
+		"Atomic Number" : "64",
+		"Element Name" : "Gadolinium",
+		"Atomic Weight" : "157.25",
+		"Period" : "6",
+		"Group" : "-",
+		"Property" : "Lanthanides"
+	},
+	"Tb":{
+		"Element Symbol" : "Tb",
+		"Atomic Number" : "65",
+		"Element Name" : "Terbium",
+		"Atomic Weight" : "154.93",
+		"Period" : "6",
+		"Group" : "-",
+		"Property" : "Lanthanides"
+	},
+	"Dy":{
+		"Element Symbol" : "Dy",
+		"Atomic Number" : "66",
+		"Element Name" : "Dysprosium",
+		"Atomic Weight" : "162.50",
+		"Period" : "6",
+		"Group" : "-",
+		"Property" : "Lanthanides"
+	},
+	"Ho":{
+		"Element Symbol" : "Ho",
+		"Atomic Number" : "67",
+		"Element Name" : "Holmium",
+		"Atomic Weight" : "164.93",
+		"Period" : "6",
+		"Group" : "-",
+		"Property" : "Lanthanides"
+	},
+	"Er":{
+		"Element Symbol" : "Er",
+		"Atomic Number" : "68",
+		"Element Name" : "Erbium",
+		"Atomic Weight" : "167.26",
+		"Period" : "6",
+		"Group" : "-",
+		"Property" : "Lanthanides"
+	},
+	"Tm":{
+		"Element Symbol" : "Tm",
+		"Atomic Number" : "69",
+		"Element Name" : "Thalium",
+		"Atomic Weight" : "168.93",
+		"Period" : "6",
+		"Group" : "-",
+		"Property" : "Lanthanides"
+	},
+	"Yb":{
+		"Element Symbol" : "Yb",
+		"Atomic Number" : "70",
+		"Element Name" : "Ytterbium",
+		"Atomic Weight" : "173.04",
+		"Period" : "6",
+		"Group" : "-",
+		"Property" : "Lanthanides"
+	},
+	"Lu":{
+		"Element Symbol" : "Lu",
+		"Atomic Number" : "71",
+		"Element Name" : "Lutetium",
+		"Atomic Weight" : "174.97",
+		"Period" : "6",
+		"Group" : "-",
+		"Property" : "Lanthanides"
+	},
+	"Hf":{
+		"Element Symbol" : "Hf",
+		"Atomic Number" : "72",
+		"Element Name" : "Hafnium",
+		"Atomic Weight" : "178.49",
+		"Period" : "6",
+		"Group" : "4",
+		"Property" : "Transition Metals"
+	},
+	"Ta":{
+		"Element Symbol" : "Ta",
+		"Atomic Number" : "73",
+		"Element Name" : "Tantalum",
+		"Atomic Weight" : "180.95",
+		"Period" : "6",
+		"Group" : "5",
+		"Property" : "Transition Metals"
+	},
+	"W":{
+		"Element Symbol" : "W",
+		"Atomic Number" : "74",
+		"Element Name" : "Tungsten",
+		"Atomic Weight" : "183.84",
+		"Period" : "6",
+		"Group" : "6",
+		"Property" : "Transition Metals"
+	},
+	"Re":{
+		"Element Symbol" : "Re",
+		"Atomic Number" : "75",
+		"Element Name" : "Rhenium",
+		"Atomic Weight" : "186.21",
+		"Period" : "6",
+		"Group" : "7",
+		"Property" : "Transition Metals"
+	},
+	"Os":{
+		"Element Symbol" : "Os",
+		"Atomic Number" : "76",
+		"Element Name" : "Osmium",
+		"Atomic Weight" : "190.23",
+		"Period" : "6",
+		"Group" : "8",
+		"Property" : "Transition Metals"
+	},
+	"Ir":{
+		"Element Symbol" : "Ir",
+		"Atomic Number" : "77",
+		"Element Name" : "Iridium",
+		"Atomic Weight" : "192.22",
+		"Period" : "6",
+		"Group" : "9",
+		"Property" : "Transition Metals"
+	},
+	"Pt":{
+		"Element Symbol" : "Pt",
+		"Atomic Number" : "78",
+		"Element Name" : "Platinum",
+		"Atomic Weight" : "195.08",
+		"Period" : "6",
+		"Group" : "10",
+		"Property" : "Transition Metals"
+	},
+	"Au":{
+		"Element Symbol" : "Au",
+		"Atomic Number" : "79",
+		"Element Name" : "Gold",
+		"Atomic Weight" : "196.97",
+		"Period" : "6",
+		"Group" : "11",
+		"Property" : "Transition Metals"
+	},
+	"Hg":{
+		"Element Symbol" : "Hg",
+		"Atomic Number" : "80",
+		"Element Name" : "Mercury",
+		"Atomic Weight" : "200.59",
+		"Period" : "6",
+		"Group" : "12",
+		"Property" : "Transition Metals"
+	},
+	"Tl":{
+		"Element Symbol" : "Tl",
+		"Atomic Number" : "81",
+		"Element Name" : "Thallium",
+		"Atomic Weight" : "204.38",
+		"Period" : "6",
+		"Group" : "13",
+		"Property" : "Post-transition Metals"
+	},
+	"Pb":{
+		"Element Symbol" : "Pb",
+		"Atomic Number" : "82",
+		"Element Name" : "Lead",
+		"Atomic Weight" : "207.2",
+		"Period" : "6",
+		"Group" : "14",
+		"Property" : "Post-transition Metals"
+	},
+	"Bi":{
+		"Element Symbol" : "Bi",
+		"Atomic Number" : "83",
+		"Element Name" : "Bismuth",
+		"Atomic Weight" : "208.98",
+		"Period" : "6",
+		"Group" : "15",
+		"Property" : "Post-transition Metals"
+	},
+	"Po":{
+		"Element Symbol" : "Po",
+		"Atomic Number" : "84",
+		"Element Name" : "Polonium",
+		"Atomic Weight" : "209",
+		"Period" : "6",
+		"Group" : "16",
+		"Property" : "Post-transition Metals"
+	},
+	"At":{
+		"Element Symbol" : "At",
+		"Atomic Number" : "85",
+		"Element Name" : "Astatine",
+		"Atomic Weight" : "210",
+		"Period" : "6",
+		"Group" : "17",
+		"Property" : "Halogens"
+	},
+	"Rn":{
+		"Element Symbol" : "Rn",
+		"Atomic Number" : "86",
+		"Element Name" : "Radon",
+		"Atomic Weight" : "222",
+		"Period" : "6",
+		"Group" : "18",
+		"Property" : "Noble Gases"
+	},
+	"Fr":{
+		"Element Symbol" : "Fr",
+		"Atomic Number" : "87",
+		"Element Name" : "Francium",
+		"Atomic Weight" : "223",
+		"Period" : "7",
+		"Group" : "1",
+		"Property" : "Alkalai Metals"
+	},
+	"Ra":{
+		"Element Symbol" : "Ra",
+		"Atomic Number" : "88",
+		"Element Name" : "Radium",
+		"Atomic Weight" : "226",
+		"Period" : "7",
+		"Group" : "2",
+		"Property" : "Alkaline Earth Metals"
+	},
+	"Ac":{
+		"Element Symbol" : "Ac",
+		"Atomic Number" : "89",
+		"Element Name" : "Actinium",
+		"Atomic Weight" : "227",
+		"Period" : "7",
+		"Group" : "-",
+		"Property" : "Actinides"
+	},
+	"Th":{
+		"Element Symbol" : "Th",
+		"Atomic Number" : "90",
+		"Element Name" : "Thorium",
+		"Atomic Weight" : "232.04",
+		"Period" : "7",
+		"Group" : "-",
+		"Property" : "Actinides"
+	},
+	"Pa":{
+		"Element Symbol" : "Pa",
+		"Atomic Number" : "91",
+		"Element Name" : "Protactinium",
+		"Atomic Weight" : "231.04",
+		"Period" : "7",
+		"Group" : "-",
+		"Property" : "Actinides"
+	},
+	"U":{
+		"Element Symbol" : "U",
+		"Atomic Number" : "92",
+		"Element Name" : "Uranium",
+		"Atomic Weight" : "238.03",
+		"Period" : "7",
+		"Group" : "-",
+		"Property" : "Actinides"
+	},
+	"Np":{
+		"Element Symbol" : "Np",
+		"Atomic Number" : "93",
+		"Element Name" : "Neptunium",
+		"Atomic Weight" : "237",
+		"Period" : "7",
+		"Group" : "-",
+		"Property" : "Actinides"
+	},
+	"Pu":{
+		"Element Symbol" : "Pu",
+		"Atomic Number" : "94",
+		"Element Name" : "Plutonium",
+		"Atomic Weight" : "244",
+		"Period" : "7",
+		"Group" : "-",
+		"Property" : "Actinides"
+	},
+	"Am":{
+		"Element Symbol" : "Am",
+		"Atomic Number" : "95",
+		"Element Name" : "Americium",
+		"Atomic Weight" : "243",
+		"Period" : "7",
+		"Group" : "-",
+		"Property" : "Actinides"
+	},
+	"Cm":{
+		"Element Symbol" : "Cm",
+		"Atomic Number" : "96",
+		"Element Name" : "Curium",
+		"Atomic Weight" : "247",
+		"Period" : "7",
+		"Group" : "-",
+		"Property" : "Actinides"
+	},
+	"Bk":{
+		"Element Symbol" : "Bk",
+		"Atomic Number" : "97",
+		"Element Name" : "Berkelium",
+		"Atomic Weight" : "247",
+		"Period" : "7",
+		"Group" : "-",
+		"Property" : "Actinides"
+	},
+	"Cf":{
+		"Element Symbol" : "Cf",
+		"Atomic Number" : "98",
+		"Element Name" : "Californium",
+		"Atomic Weight" : "251",
+		"Period" : "7",
+		"Group" : "-",
+		"Property" : "Actinides"
+	},
+	"Es":{
+		"Element Symbol" : "Es",
+		"Atomic Number" : "99",
+		"Element Name" : "Einsteinium",
+		"Atomic Weight" : "252",
+		"Period" : "7",
+		"Group" : "-",
+		"Property" : "Actinides"
+	},
+	"Fm":{
+		"Element Symbol" : "Fm",
+		"Atomic Number" : "100",
+		"Element Name" : "Fermium",
+		"Atomic Weight" : "257",
+		"Period" : "7",
+		"Group" : "-",
+		"Property" : "Actinides"
+	},
+	"Md":{
+		"Element Symbol" : "Md",
+		"Atomic Number" : "101",
+		"Element Name" : "Mendelevium",
+		"Atomic Weight" : "258",
+		"Period" : "7",
+		"Group" : "-",
+		"Property" : "Actinides"
+	},
+	"No":{
+		"Element Symbol" : "No",
+		"Atomic Number" : "102",
+		"Element Name" : "Nobelium",
+		"Atomic Weight" : "259",
+		"Period" : "7",
+		"Group" : "-",
+		"Property" : "Actinides"
+	},
+	"Lr":{
+		"Element Symbol" : "Lr",
+		"Atomic Number" : "103",
+		"Element Name" : "Lawrencium",
+		"Atomic Weight" : "262",
+		"Period" : "7",
+		"Group" : "-",
+		"Property" : "Actinides"
+	},
+	"Rf":{
+		"Element Symbol" : "Rf",
+		"Atomic Number" : "104",
+		"Element Name" : "Rutherfordium",
+		"Atomic Weight" : "261",
+		"Period" : "7",
+		"Group" : "4",
+		"Property" : "Transition Metals"
+	},
+	"Db":{
+		"Element Symbol" : "Db",
+		"Atomic Number" : "105",
+		"Element Name" : "Dubnium",
+		"Atomic Weight" : "262",
+		"Period" : "7",
+		"Group" : "5",
+		"Property" : "Transition Metals"
+	},
+	"Sg":{
+		"Element Symbol" : "Sg",
+		"Atomic Number" : "106",
+		"Element Name" : "Seaborgium",
+		"Atomic Weight" : "266",
+		"Period" : "7",
+		"Group" : "6",
+		"Property" : "Transition Metals"
+	},
+	"Bh":{
+		"Element Symbol" : "Bh",
+		"Atomic Number" : "107",
+		"Element Name" : "Bohrium",
+		"Atomic Weight" : "264",
+		"Period" : "7",
+		"Group" : "7",
+		"Property" : "Transition Metals"
+	},
+	"Hs":{
+		"Element Symbol" : "Hs",
+		"Atomic Number" : "108",
+		"Element Name" : "Hassium",
+		"Atomic Weight" : "269",
+		"Period" : "7",
+		"Group" : "8",
+		"Property" : "Transition Metals"
+	},
+	"Mt":{
+		"Element Symbol" : "Mt",
+		"Atomic Number" : "109",
+		"Element Name" : "Meitnerium",
+		"Atomic Weight" : "268",
+		"Period" : "7",
+		"Group" : "9",
+		"Property" : "Transition Metals"
+	},
+	"Ds":{
+		"Element Symbol" : "Ds",
+		"Atomic Number" : "110",
+		"Element Name" : "Damstadtium",
+		"Atomic Weight" : "268",
+		"Period" : "7",
+		"Group" : "10",
+		"Property" : "Transition Metals"
+	},
+	"Rg":{
+		"Element Symbol" : "Rg",
+		"Atomic Number" : "111",
+		"Element Name" : "Roentgenium",
+		"Atomic Weight" : "268",
+		"Period" : "7",
+		"Group" : "11",
+		"Property" : "Transition Metals"
+	},
+	"Cn":{
+		"Element Symbol" : "Cn",
+		"Atomic Number" : "112",
+		"Element Name" : "Copernicium",
+		"Atomic Weight" : "268",
+		"Period" : "7",
+		"Group" : "12",
+		"Property" : "Transition Metals"
+	},
+	"Uut":{
+		"Element Symbol" : "Uut",
+		"Atomic Number" : "113",
+		"Element Name" : "Ununtrium",
+		"Atomic Weight" : "268",
+		"Period" : "7",
+		"Group" : "13",
+		"Property" : "Unknown Properties"
+	},
+	"Fl":{
+		"Element Symbol" : "Fl",
+		"Atomic Number" : "114",
+		"Element Name" : "Flerovium",
+		"Atomic Weight" : "268",
+		"Period" : "7",
+		"Group" : "14",
+		"Property" : "Unknown Properties"
+	},
+	"Uup":{
+		"Element Symbol" : "Uup",
+		"Atomic Number" : "115",
+		"Element Name" : "Ununpentium",
+		"Atomic Weight" : "268",
+		"Period" : "7",
+		"Group" : "15",
+		"Property" : "Unknown Properties"
+	},
+	"Lv":{
+		"Element Symbol" : "Lv",
+		"Atomic Number" : "116",
+		"Element Name" : "Livermorium",
+		"Atomic Weight" : "268",
+		"Period" : "7",
+		"Group" : "16",
+		"Property" : "Unknown Properties"
+	},
+	"Uus":{
+		"Element Symbol" : "Uus",
+		"Atomic Number" : "117",
+		"Element Name" : "Ununseptium",
+		"Atomic Weight" : "268",
+		"Period" : "7",
+		"Group" : "17",
+		"Property" : "Unknown Properties"
+	},
+	"Uuo":{
+		"Element Symbol" : "Uuo",
+		"Atomic Number" : "118",
+		"Element Name" : "Ununoctium",
+		"Atomic Weight" : "268",
+		"Period" : "7",
+		"Group" : "18",
+		"Property" : "Unknown Properties"
+	}
+}
+
+
